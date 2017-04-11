@@ -1,0 +1,7 @@
+---
+
+- name: glusterfs-started
+  service:
+    name: glusterfs-server
+    state: started
+    enabled: true

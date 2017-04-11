@@ -1,0 +1,3 @@
+glusterfs_brick_dir: "/data/brick"
+glusterfs_volumes:
+    - config
